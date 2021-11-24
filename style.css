@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css?family=Allura|Josefin+Sans');
+
+body {
+    background-color:#99DDCC;
+}
+hr {
+    border-style: none;
+    border-top-style:dotted ;
+    height: 1px;
+    border-color:midnightblue;
+    border-width: 6px;
+    width: 5%  ;
+}
+
+h1 {
+    color: #32C1CD;
+    
+}
+
+h3 {
+    color: #32C1CD;
+}
+
+.wrapper h1 {
+    font-size: 50px;
+    font-family: bogart;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+
+.PS .section {
+    background: #fff;
+    margin: 25px;
+    margin-bottom: 5px;
+    padding: 10px;
+    line-height: 30px;
+    color:black;
+    position: relative;
+}
+
+.section1 {
+    background:cadetblue;
+    color:black;
+    line-height: 30px;
+    margin: 25px;
+    margin-bottom: 5px;
+    padding: 10px;
+    position: static;
+    text-align: center;
+}
+
+.PS .section h3 {
+    font-size: 25px;
+    margin-top: 10px;
+}
+
+.PS .section table {
+    margin: 10px 0;
+}
+
